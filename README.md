@@ -1,6 +1,6 @@
 # React Button 연습
 
-![본문 이미지] (../img/img.jpg)
+![본문 이미지] (./img/img.jpg)
 
 
 
