@@ -1,14 +1,14 @@
 # React Button 연습
 <br>
 <br>
-![본문 이미지] (/src/img/img.jpg)
 <br>
-<br>
-<br>
+
 * * *
+
 <br>
 <br>
 <br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
