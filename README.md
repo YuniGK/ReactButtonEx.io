@@ -1,12 +1,9 @@
 # React Button 연습
-__
-__
+(  )
 ![본문 이미지] (/src/img/img.jpg)
-__
-__
+(   )
 * * *
-__
-__
+(   )
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
