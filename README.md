@@ -1,6 +1,6 @@
 # React Button 연습
 
-[! [버튼 이미지] (/web/upload/flowerUpload/img/react/img.jpg)]
+[본문 이미지]: /web/upload/flowerUpload/img/react/img.jpg "버튼 이미지"
 
 
 
