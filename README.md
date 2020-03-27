@@ -1,6 +1,6 @@
 # React Button 연습
 
-![본문 이미지] (https://github.com/YuniGK/ReactButtonEx.io/src/img/img.jpg)
+![본문 이미지] (https://github.com/YuniGK/ReactButtonEx.io/blob/master/src/img/img.jpg)
 
 
 
